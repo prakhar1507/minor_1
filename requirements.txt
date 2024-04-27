@@ -1,0 +1,7 @@
+numpy
+pandas
+time
+seaborn
+matplotlib
+plotly
+scikit-learn
