@@ -1,6 +1,5 @@
 numpy
 pandas
-time
 seaborn
 matplotlib
 plotly
